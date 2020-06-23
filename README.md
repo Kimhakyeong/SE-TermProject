@@ -1,4 +1,4 @@
 # SE-TermProject
 
-SE Termproject Team 4
+SE Termproject Team 4 - 
 'Online complex shopping mall' inplementation
